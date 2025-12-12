@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+myenv/
+myenv311/
+.venv/
+
+# Environment variables
+.env
+
+# LangChain / cache files
+llm_cache.db
+chroma_db/
+
+# OS
+.DS_Store
+Thumbs.db
